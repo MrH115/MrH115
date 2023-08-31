@@ -2,7 +2,7 @@
 - 👀 I’m interested in Writting and making games.
 - 🌱 I’m currently learning Monogame.
 - 💞️ I’m looking to collaborate on interisting projects that I will learn from.
-- 📫 Discord: MrH114#9489
+- 📫 Discord: MrH115#9489
 
 <!---
 MrH115/MrH115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
